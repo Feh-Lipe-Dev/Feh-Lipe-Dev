@@ -1,7 +1,7 @@
 ### Fala mundo! Sou o Felipe Gonçalves 👊🏼
 
 Entusiasmado pelo universo do desenvolvimento, hoje sou graduando de Tecnólogo em Análise e Desenvolvimento de Sistemas. <br />
-Além de me dedicar ao front-end, também gosto de escvrever sobre o que aprendo e compartilhar nas minhas redes.
+Além de me dedicar ao front-end, também gosto de escrever sobre o que aprendo e compartilhar nas minhas redes.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feh-lipe-dev/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Feh-Lipe-Dev)
