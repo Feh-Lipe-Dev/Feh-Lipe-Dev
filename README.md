@@ -17,8 +17,8 @@ Além de me dedicar ao front-end, também gosto de escrever sobre o que aprendo 
 - [Você possui conhecimento, ou só está informado?](https://www.linkedin.com/posts/feh-lipe-dev_voc%C3%AA-possui-conhecimento-ou-s%C3%B3-est%C3%A1-informado-activity-7178697604497629184-8to-?utm_source=share&utm_medium=member_desktop)
 - [Design responsivo: mobile first](https://www.linkedin.com/posts/feh-lipe-dev_alterando-status-de-sumido-para-estou-activity-7171846104106295300-69Ng?utm_source=share&utm_medium=member_desktop)
 - [Compreendendo banco de dados](https://www.linkedin.com/posts/feh-lipe-dev_compreender-bancos-de-dados-permite-organizar-activity-7240483016467218433-t_3E?utm_source=share&utm_medium=member_desktop)
-- [Faça CRUD com segurança com SQL usando transações ](https://www.linkedin.com/posts/feh-lipe-dev_fa%C3%A7a-crud-no-sql-server-com-seguran%C3%A7a-usando-activity-7237050946147504128-w9Dg?utm_source=share&utm_medium=member_desktop)
-- []()
+- [Faça CRUD com segurança usando transações no SQL ](https://www.linkedin.com/posts/feh-lipe-dev_fa%C3%A7a-crud-no-sql-server-com-seguran%C3%A7a-usando-activity-7237050946147504128-w9Dg?utm_source=share&utm_medium=member_desktop)
+- [Projeto React Native com chamada de API](https://www.linkedin.com/posts/feh-lipe-dev_projetinho-para-come%C3%A7ar-no-react-native-com-activity-7242499747578626048-El_-?utm_source=share&utm_medium=member_desktop)
 
 ## Contato
 [![Gmal](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](felipe.cleia05@gmail.com)
