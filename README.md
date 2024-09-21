@@ -7,7 +7,7 @@ Além de me dedicar ao front-end, também gosto de escrever sobre o que aprendo 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Feh-Lipe-Dev)
 
 ## Tecnologias que eu uso:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fehlipedev&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feh-lipe-dev&hide_progress=true)
 
 ## Últimas postagens
 - [Afinal, o que é algoritmo?](https://www.linkedin.com/posts/feh-lipe-dev_o-que-%C3%A9-um-algoritmo-activity-7184306899058622464-CYxT?utm_source=share&utm_medium=member_desktop)
