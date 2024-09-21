@@ -7,10 +7,7 @@ Além de me dedicar ao front-end, também gosto de escrever sobre o que aprendo 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Feh-Lipe-Dev)
 
 ## Tecnologias que eu uso:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fehlipedev&hide_progress=true)
 
 ## Últimas postagens
 - [Afinal, o que é algoritmo?](https://www.linkedin.com/posts/feh-lipe-dev_o-que-%C3%A9-um-algoritmo-activity-7184306899058622464-CYxT?utm_source=share&utm_medium=member_desktop)
