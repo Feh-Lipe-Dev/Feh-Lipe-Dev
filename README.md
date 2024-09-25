@@ -16,6 +16,7 @@ Além de me dedicar ao front-end, também gosto de escrever sobre o que aprendo 
 - [Compreendendo banco de dados](https://www.linkedin.com/posts/feh-lipe-dev_compreender-bancos-de-dados-permite-organizar-activity-7240483016467218433-t_3E?utm_source=share&utm_medium=member_desktop)
 - [Faça CRUD com segurança usando transações no SQL ](https://www.linkedin.com/posts/feh-lipe-dev_fa%C3%A7a-crud-no-sql-server-com-seguran%C3%A7a-usando-activity-7237050946147504128-w9Dg?utm_source=share&utm_medium=member_desktop)
 - [Projeto React Native com chamada de API](https://www.linkedin.com/posts/feh-lipe-dev_projetinho-para-come%C3%A7ar-no-react-native-com-activity-7242499747578626048-El_-?utm_source=share&utm_medium=member_desktop)
+- [Aplicação Web completa com React + Node](https://www.linkedin.com/posts/feh-lipe-dev_aplica%C3%A7%C3%A3o-web-completa-react-node-app-activity-7244827586143391745-VMZc?utm_source=share&utm_medium=member_desktop)
 
 ## Contato
 [![Gmal](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](felipe.cleia05@gmail.com)
