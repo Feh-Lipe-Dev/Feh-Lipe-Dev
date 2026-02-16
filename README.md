@@ -1,4 +1,6 @@
-### Fala mundo! Sou o Felipe Gonçalves 👊🏼
+`Desenvolver FullStack`
+
+## Fala mundo! Sou o Felipe Gonçalves 👊🏼
 
 Entusiasmado pelo universo do desenvolvimento, hoje sou graduando de Tecnólogo em Análise e Desenvolvimento de Sistemas. <br />
 Me dedico ao desenvolvimento web full - stack, com foco nas principais tecnologias usadas: HTML, CSS, Javascript, Typecript, React, NodeJS, ExpressJS.
@@ -7,8 +9,78 @@ Além de me dedicar a aprimorar minhas skills na programação, também gosto de
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feh-lipe-dev/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Feh-Lipe-Dev)
 
-## Tecnologias que eu uso:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feh-lipe-dev&hide_progress=true)
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS3" 
+    title="CSS2"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="nodejs"
+    title="nodejs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="expressjs"
+    title="expressjs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+/>
+
+<br><br><br>
 
 ## Últimas postagens
 - [Afinal, o que é algoritmo?](https://www.linkedin.com/posts/feh-lipe-dev_o-que-%C3%A9-um-algoritmo-activity-7184306899058622464-CYxT?utm_source=share&utm_medium=member_desktop)
