@@ -2,7 +2,7 @@
 
 ## Fala mundo! Sou o Felipe Gonçalves 👊🏼
 
-Entusiasmado pelo universo do desenvolvimento, hoje sou graduando de Tecnólogo em Análise e Desenvolvimento de Sistemas. <br />
+Entusiasmado pelo universo do desenvolvimento, hoje sou graduando de Tecnólogo em Análise e Desenvolvimento de Sistemas e Cursando Técnico em Desenvolvimentos de Software. <br />
 Me dedico ao desenvolvimento web full - stack, com foco nas principais tecnologias usadas: HTML, CSS, Javascript, Typecript, React, NodeJS, ExpressJS.
 Além de me dedicar a aprimorar minhas skills na programação, também gosto de escrever sobre o que aprendo e compartilhar nas minhas redes.
 
