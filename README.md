@@ -4,11 +4,10 @@
 
 Ao longo da minha trajetória profissional, com mais de 19 anos de carreira, desenvolvi competências sólidas em gestão logística. Minha atuação é marcada por um forte senso de prioridade, comprometimento com resultados e habilidades interpessoais. Atualmente, também estou expandindo meus conhecimentos na área de tecnologia, cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, e Técnico em Desenvolvimento Web Back-End.
 
-Me dedico ao desenvolvimento web full - stack, com foco nas principais tecnologias usadas: HTML, CSS, Javascript, Typecript, SQL, React, NodeJS, ExpressJS.
-Além de me dedicar a aprimorar minhas skills na programação, também gosto de escrever sobre o que aprendo e compartilhar nas minhas redes.
+Me dedico ao desenvolvimento web, análise de sistemas e suporte ao cliente, com foco nas principais tecnologias usadas: HTML, CSS, Javascript, Typecript, SQL, React, NodeJS, ExpressJS. Também me dedico ao aprimorando das minhas competências pessoais, como comunicação, resiliência, resolução de problemas, raciocínio lógico e capacidade analítica.
+Além de me dedicar a aprimorar minhas hards e softs skills, também gosto de escrever sobre o que aprendo e compartilhar nas minhas redes.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feh-lipe-dev/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Feh-Lipe-Dev)
 
 ### 🤖 Linguagens e Tecnologias
 
