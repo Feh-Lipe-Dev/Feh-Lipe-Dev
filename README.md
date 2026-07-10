@@ -1,4 +1,4 @@
-`Desenvolver FullStack`
+`Desenvolvedorr Back-end`
 
 ## Fala mundo! Sou o Felipe Gonçalves 👊🏼
 
