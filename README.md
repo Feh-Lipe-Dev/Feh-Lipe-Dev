@@ -1,87 +1,204 @@
-`Desenvolvedorr Back-end`
+# Felipe Gonçalves
 
-## Fala mundo! Sou o Felipe Gonçalves 👊🏼
+### Analista de Suporte de Sistemas • Suporte de Aplicações • Tecnólogo em ADS
 
-Ao longo da minha trajetória profissional, com mais de 19 anos de carreira, desenvolvi competências sólidas em gestão logística. Minha atuação é marcada por um forte senso de prioridade, comprometimento com resultados e habilidades interpessoais. Atualmente, também estou expandindo meus conhecimentos na área de tecnologia, cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, e Técnico em Desenvolvimento Web Back-End.
+Seja bem-vindo ao meu GitHub!
 
-Me dedico ao desenvolvimento web, análise de sistemas e suporte ao cliente, com foco nas principais tecnologias usadas: HTML, CSS, Javascript, Typecript, SQL, React, NodeJS, ExpressJS. Também me dedico ao aprimorando das minhas competências pessoais, como comunicação, resiliência, resolução de problemas, raciocínio lógico e capacidade analítica.
-Além de me dedicar a aprimorar minhas hards e softs skills, também gosto de escrever sobre o que aprendo e compartilhar nas minhas redes.
+Meu objetivo é utilizar este espaço não apenas para publicar código, mas também para compartilhar documentação técnica, estudos, projetos e boas práticas relacionadas a Suporte de Sistemas, Suporte de Aplicações, APIs, SQL, ERP e resolução de problemas.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feh-lipe-dev/)
+Acredito que tecnologia vai além do desenvolvimento de software. Entender processos, investigar incidentes, documentar soluções e proporcionar uma boa experiência ao usuário também fazem parte da construção de sistemas de qualidade.
 
-### 🤖 Linguagens e Tecnologias
+---
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS3" 
-    title="CSS2"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+# 👨‍💻 Sobre mim
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
 
-<img 
-    align="left" 
-    alt="nodejs"
-    title="nodejs"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
+🎓 Técnico em Desenvolvimento web: back-end NodeJS
 
-<img 
-    align="left" 
-    alt="expressjs"
-    title="expressjs"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
-/>
+📍 Joinville - SC
 
-<br><br><br>
+💼 Mais de 19 anos de experiência em ambientes corporativos
 
-## Últimas postagens (Linkedin)
+🖥 Experiência com sistemas ERP:
+- SAP Business One
+- Protheus
+- GKO Frete
+
+🎯 Atualmente direcionando minha carreira para:
+
+- Suporte de Sistemas
+- Suporte de Aplicações
+- Customer Success
+- Análise de Sistemas
+
+Tenho interesse especial em investigação de incidentes, melhoria contínua, integração entre sistemas e documentação técnica.
+
+---
+
+# 🚀 Projetos
+
+## Analista de Suporte Técnico
+
+Repositório dedicado a registrar meu conhecimento e evolução na área de suporte técnico, atendimento ao cliente a análise de sistemas.
+
+[Repositório](https://github.com/Feh-Lipe-Dev/Analista-de-Suporte-Tecnico)
+
+## Pokédex TypeScript
+
+Projeto desenvolvido em TypeScript consumindo API REST.
+
+Principais conceitos:
+
+- TypeScript
+- Node.js
+- Consumo de APIs
+- Tratamento de dados
+- Organização do código
+- Documentação
+
+[Cliquei aqui](https://github.com/Feh-Lipe-Dev/pokedex-typescript-lite) para conferir o projeto
+
+---
+
+## Portfólio Profissional
+
+Website desenvolvido para apresentação dos meus projetos e evolução profissional.
+
+Tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+- [Ver o portfólio](https://feh-lipe-dev.github.io/site-portfolio-felipe/)
+- [Ir para o repositório](https://github.com/Feh-Lipe-Dev/site-portfolio-felipe)
+
+---
+
+# 📚 Artigos Técnicos
+
+Produzo conteúdo no LinkedIn sobre tecnologia, suporte e resolução de problemas.
+
+Alguns temas publicados:
+
 - [O papel e o lugar do analista de suporte](https://www.linkedin.com/posts/feh-lipe-dev_o-papel-do-analista-de-suporte-ti-help-desk-activity-7465240689698553856-H8de?utm_source=share&utm_medium=member_desktop&rcm=ACoAACYO9qcBFOc52LqZyLwZfICpqhdRIIgwHkQ)
+- [Níveis de Suporte](https://www.linkedin.com/posts/feh-lipe-dev_o-papel-do-analista-de-suporte-ti-help-desk-share-7465240688234913792-9tUt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACYO9qcBFOc52LqZyLwZfICpqhdRIIgwHkQ)
+- [Faça CRUD com segurança usando transações no SQL ](https://www.linkedin.com/posts/feh-lipe-dev_fa%C3%A7a-crud-no-sql-server-com-seguran%C3%A7a-usando-activity-7237050946147504128-w9Dg?utm_source=share&utm_medium=member_desktop)
+- [Verbos HTTP e Postman](https://www.linkedin.com/feed/update/urn:li:activity:7467598039168405506/)
 - [Afinal, o que é algoritmo?](https://www.linkedin.com/posts/feh-lipe-dev_o-que-%C3%A9-um-algoritmo-activity-7184306899058622464-CYxT?utm_source=share&utm_medium=member_desktop)
 - [Você possui conhecimento, ou só está informado?](https://www.linkedin.com/posts/feh-lipe-dev_voc%C3%AA-possui-conhecimento-ou-s%C3%B3-est%C3%A1-informado-activity-7178697604497629184-8to-?utm_source=share&utm_medium=member_desktop)
-- [Design responsivo: mobile first](https://www.linkedin.com/posts/feh-lipe-dev_alterando-status-de-sumido-para-estou-activity-7171846104106295300-69Ng?utm_source=share&utm_medium=member_desktop)
-- [Compreendendo banco de dados](https://www.linkedin.com/posts/feh-lipe-dev_compreender-bancos-de-dados-permite-organizar-activity-7240483016467218433-t_3E?utm_source=share&utm_medium=member_desktop)
-- [Faça CRUD com segurança usando transações no SQL ](https://www.linkedin.com/posts/feh-lipe-dev_fa%C3%A7a-crud-no-sql-server-com-seguran%C3%A7a-usando-activity-7237050946147504128-w9Dg?utm_source=share&utm_medium=member_desktop)
-- [Projeto React Native com chamada de API](https://www.linkedin.com/posts/feh-lipe-dev_projetinho-para-come%C3%A7ar-no-react-native-com-activity-7242499747578626048-El_-?utm_source=share&utm_medium=member_desktop)
 - [Aplicação Web completa com React + Node](https://www.linkedin.com/posts/feh-lipe-dev_aplica%C3%A7%C3%A3o-web-completa-react-node-app-activity-7244827586143391745-VMZc?utm_source=share&utm_medium=member_desktop)
 
-## Contato
-[![Gmal](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](felipe.cleia05@gmail.com)
+---
+
+# 🔍 Investigação de Incidentes
+
+Tenho grande interesse em metodologias para identificação da causa dos problemas.
+
+Estudos sobre:
+
+- Cinco Porquês
+- Análise de causa raiz
+- Troubleshooting
+- Acesso remoto
+- Logs
+- APIs
+- HTTP Status
+- Monitoramento
+
+---
+
+# 🌐 APIs
+
+Conteúdos relacionados a:
+
+- REST
+- HTTP
+- JSON
+- Postman
+- Integração entre sistemas
+- Testes de endpoints
+
+---
+
+# 🗄 SQL
+
+Estudos sobre:
+
+- SELECT
+- JOIN
+- GROUP BY
+- CRUD
+- Transactions
+- Integridade dos dados
+
+---
+
+# 🏢 ERP
+
+Experiência prática utilizando:
+
+- SAP Business One
+- Protheus
+- GKO Frete
+
+Interesse em:
+
+- Processos corporativos
+- Integrações
+- Parametrizações
+- Suporte funcional
+
+---
+
+# 📝 Documentação
+
+Acredito que uma boa documentação reduz tempo de atendimento e melhora a experiência dos usuários.
+
+Neste GitHub você encontrará:
+
+- READMEs completos
+- Diagramas
+- Documentação de APIs
+- Especificações técnicas
+- Guias de instalação
+- Boas práticas
+
+---
+
+# 🛠 Tecnologias
+
+- JavaScript
+- TypeScript
+- Node.js
+- Express
+- HTML
+- CSS
+- SQL
+- PostgreSQL
+- Git
+- GitHub
+- Postman
+- VS Code
+- AnyDesk
+- Java
+
+---
+
+# 📫 Contato
+
+LinkedIn
+
+➡️ www.linkedin.com/in/feh-lipe-dev
+
+GitHub
+
+➡️ www.github.com/Feh-Lipe-Dev
+
+Portfólio
+
+➡️ https://feh-lipe-dev.github.io/site-portfolio-felipe/
+
+E-mail
+
+➡️ felipe.cleia05@gmail.com
