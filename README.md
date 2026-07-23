@@ -38,11 +38,11 @@ Tenho interesse especial em investigação de incidentes, melhoria contínua, in
 
 # 🚀 Projetos
 
-## Analista de Suporte Técnico
+## BokStore Manager CLI
 
-Repositório dedicado a registrar meu conhecimento e evolução na área de suporte técnico, atendimento ao cliente a análise de sistemas.
+Aplicação de linha de comando desenvolvida em Node.js + TypeScript para gerenciamento de uma livraria. O sistema permite cadastrar e gerenciar autores, livros e clientes, realizar empréstimos e devoluções de livros, além de gerar relatórios estatísticos — tudo interativamente pelo terminal, com persistência de dados em banco de dados PostgreSQL.
 
-[Repositório](https://github.com/Feh-Lipe-Dev/Analista-de-Suporte-Tecnico)
+[Projeto](https://github.com/Feh-Lipe-Dev/bookStore-Manager-CLI-Project)
 
 ## Pokédex TypeScript
 
@@ -61,17 +61,20 @@ Principais conceitos:
 
 ---
 
-## Portfólio Profissional
+## Lista de Tarefas JS
 
-Website desenvolvido para apresentação dos meus projetos e evolução profissional.
+Aplicação web com HTML e CSS com manipulação do DOM usando Javascript Puro.
 
-Tecnologias:
+Pincipais conceitos:
 
-- HTML
-- CSS
-- JavaScript
-- [Ver o portfólio](https://feh-lipe-dev.github.io/site-portfolio-felipe/)
-- [Ir para o repositório](https://github.com/Feh-Lipe-Dev/site-portfolio-felipe)
+- Manipulação dos elementos HTML com Javascript
+- Declarações de variáveis, com os métodos de seletores de CSS, para trabalhar com os elementos do DOM
+- Eventos e métodos de "click"
+- Criação e exclusão de elementos HTML através do JS puro
+- Declaração de variáveis no CSS
+- Trabalhando com a unidade 'rem' equivalente a um pixel
+
+[Repositório](https://github.com/Feh-Lipe-Dev/lista-tarefas-js)
 
 ---
 
