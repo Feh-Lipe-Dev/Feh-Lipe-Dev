@@ -1,10 +1,10 @@
 # Felipe Gonçalves
 
-### Analista de Suporte de Sistemas • Suporte de Aplicações • Tecnólogo em ADS
+Desenvolvedor Back-end | Node.js • TypeScript • PostgreSQL | Análise de Sistemas | Sistemas Corporativos
 
 Seja bem-vindo ao meu GitHub!
 
-Meu objetivo é utilizar este espaço não apenas para publicar código, mas também para compartilhar documentação técnica, estudos, projetos e boas práticas relacionadas a Suporte de Sistemas, Suporte de Aplicações, APIs, SQL, ERP e resolução de problemas.
+Meu objetivo é utilizar este espaço não apenas para publicar código, mas também para compartilhar documentação técnica, estudos, projetos e boas práticas relacionadas a Desenvolvimento Back-End, APIs, SQL, análise e suporte de Sistemas.
 
 Acredito que tecnologia vai além do desenvolvimento de software. Entender processos, investigar incidentes, documentar soluções e proporcionar uma boa experiência ao usuário também fazem parte da construção de sistemas de qualidade.
 
